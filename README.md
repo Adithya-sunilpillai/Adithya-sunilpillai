@@ -17,7 +17,7 @@ Electrical & Computer Engineering graduate passionate about building intelligent
 
 ### Tech Stack
 
-**Core & Vision**
+**Core & Vision**\n
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
