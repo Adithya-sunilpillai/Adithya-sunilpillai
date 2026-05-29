@@ -40,7 +40,7 @@ Electrical & Computer Engineering graduate passionate about building intelligent
 ---
 
 ### Currently Exploring
-Edge AI deployment · Quantum algorithms · Intelligent automation systems
+AI deployment · Quantum algorithms · Intelligent automation systems
 
 ---
 
