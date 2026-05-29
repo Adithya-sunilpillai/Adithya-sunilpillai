@@ -17,20 +17,20 @@ Electrical & Computer Engineering graduate passionate about building intelligent
 
 ### Tech Stack
 
-**Core & Vision:  **
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+**Core & Vision:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-**Embedded & Hardware:  **
-![Hardware & Embedded Systems](https://img.shields.io/badge/Hardware%20%26%20Embedded%20Systems-555?style=flat)
-![Robotics Integration](https://img.shields.io/badge/Robotics%20Integration-555?style=flat)
-![Sensor Interfacing](https://img.shields.io/badge/Sensor%20Interfacing-555?style=flat)
+**Embedded & Hardware:**
+  ![Hardware & Embedded Systems](https://img.shields.io/badge/Hardware%20%26%20Embedded%20Systems-555?style=flat)
+  ![Robotics Integration](https://img.shields.io/badge/Robotics%20Integration-555?style=flat)
+  ![Sensor Interfacing](https://img.shields.io/badge/Sensor%20Interfacing-555?style=flat)
 
-**Web & Backend:  **
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Web & Backend:**
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **ML & Data**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
